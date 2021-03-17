@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "TestDll/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/TestDll.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TestDll.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "TestDll/1.0.0": {
-      "type": "project",
-      "path": "../TestDll/TestDll.csproj",
-      "msbuildProject": "../TestDll/TestDll.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "TestDll >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\Arseniy\\.nuget\\packages\\": {},
@@ -56,11 +37,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {
-            "C:\\Users\\Arseniy\\source\\repos\\DLL\\TestDll\\TestDll.csproj": {
-              "projectPath": "C:\\Users\\Arseniy\\source\\repos\\DLL\\TestDll\\TestDll.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
