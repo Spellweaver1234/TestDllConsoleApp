@@ -1,0 +1,16 @@
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\bin\Debug\netcoreapp3.1\TestDllConsoleApp.exe
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\bin\Debug\netcoreapp3.1\TestDllConsoleApp.deps.json
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\bin\Debug\netcoreapp3.1\TestDllConsoleApp.runtimeconfig.json
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\bin\Debug\netcoreapp3.1\TestDllConsoleApp.runtimeconfig.dev.json
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\bin\Debug\netcoreapp3.1\TestDllConsoleApp.dll
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\bin\Debug\netcoreapp3.1\TestDllConsoleApp.pdb
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\bin\Debug\netcoreapp3.1\TestDll.dll
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\bin\Debug\netcoreapp3.1\TestDll.pdb
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\obj\Debug\netcoreapp3.1\TestDllConsoleApp.csprojAssemblyReference.cache
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\obj\Debug\netcoreapp3.1\TestDllConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\obj\Debug\netcoreapp3.1\TestDllConsoleApp.AssemblyInfo.cs
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\obj\Debug\netcoreapp3.1\TestDllConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\obj\Debug\netcoreapp3.1\TestDllConsoleApp.csproj.CopyComplete
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\obj\Debug\netcoreapp3.1\TestDllConsoleApp.dll
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\obj\Debug\netcoreapp3.1\TestDllConsoleApp.pdb
+C:\Users\Arseniy\source\repos\TestDllConsoleApp\obj\Debug\netcoreapp3.1\TestDllConsoleApp.genruntimeconfig.cache
