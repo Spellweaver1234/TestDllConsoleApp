@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDllConsoleApp", "TestDllConsoleApp.csproj", "{17F943D4-CDAA-4576-9B32-6F8F9C5EA80C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDll", "..\TestDll\TestDll.csproj", "{34E54EC0-BF24-43EF-B872-0DBCE76DE037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17F943D4-CDAA-4576-9B32-6F8F9C5EA80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F943D4-CDAA-4576-9B32-6F8F9C5EA80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F943D4-CDAA-4576-9B32-6F8F9C5EA80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F943D4-CDAA-4576-9B32-6F8F9C5EA80C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E54EC0-BF24-43EF-B872-0DBCE76DE037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E54EC0-BF24-43EF-B872-0DBCE76DE037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E54EC0-BF24-43EF-B872-0DBCE76DE037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E54EC0-BF24-43EF-B872-0DBCE76DE037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF8FA5AA-988B-414B-BC1D-48382E53CF07}
+	EndGlobalSection
+EndGlobal
