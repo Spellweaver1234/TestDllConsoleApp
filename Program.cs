@@ -22,7 +22,7 @@ namespace TestDllConsoleApp
             //result = testClass.MedianFiltering(result, 3);
             //ShowResults($"Results of medians with window={window}: ");
 
-            var oddNumbers = OddNumbers(3, 70).ToArray();
+            var oddNumbers = OddNumbers(3, 1001).ToArray();
             MedianFilteringWithWindow(oddNumbers);
         }
         public static List<List<byte>> ReadTxt(string path)

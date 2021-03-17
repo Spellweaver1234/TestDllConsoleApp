@@ -13,6 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TestDll\TestDll.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="TestDll">
       <HintPath>..\TestDll\bin\Debug\netcoreapp3.1\TestDll.dll</HintPath>
     </Reference>
